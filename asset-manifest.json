@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Card-React-Props/static/css/main.f58aa656.css",
+    "main.js": "/Card-React-Props/static/js/main.89f3e015.js",
+    "index.html": "/Card-React-Props/index.html",
+    "main.f58aa656.css.map": "/Card-React-Props/static/css/main.f58aa656.css.map",
+    "main.89f3e015.js.map": "/Card-React-Props/static/js/main.89f3e015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58aa656.css",
+    "static/js/main.89f3e015.js"
+  ]
+}
